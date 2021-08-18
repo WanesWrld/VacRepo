@@ -28,7 +28,7 @@ namespace VaccineApp
             Console.WriteLine("ID: ");
             var Idnum = Console.ReadLine();
             Console.Clear();
-
+            // comment
             Console.WriteLine("Do you have money: ");
             string  money = Console.ReadLine();
             Console.Clear();
