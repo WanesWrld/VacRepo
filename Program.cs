@@ -33,6 +33,7 @@ namespace VaccineApp
             string  money = Console.ReadLine();
             Console.Clear();
             // output
+            //thabang
             Console.WriteLine("Congradulations " + Name +" "+ Surname + " you have successfully registered for your vaccine");
         }
     }
