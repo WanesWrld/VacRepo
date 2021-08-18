@@ -32,7 +32,7 @@ namespace VaccineApp
             Console.WriteLine("Do you have money: ");
             string  money = Console.ReadLine();
             Console.Clear();
-
+            // output
             Console.WriteLine("Congradulations " + Name +" "+ Surname + " you have successfully registered for your vaccine");
         }
     }
