@@ -29,8 +29,8 @@ namespace VaccineApp
             var Idnum = Console.ReadLine();
             Console.Clear();
 
-            Console.WriteLine("Province: ");
-            string House_number = Console.ReadLine();
+            Console.WriteLine("Do you have money: ");
+            string  money = Console.ReadLine();
             Console.Clear();
 
             Console.WriteLine("Congradulations " + Name +" "+ Surname + " you have successfully registered for your vaccine");
