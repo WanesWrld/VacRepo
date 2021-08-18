@@ -1,0 +1,13 @@
+C:\Users\tendo\source\repos\VaccineApp\bin\Debug\netcoreapp3.1\VaccineApp.exe
+C:\Users\tendo\source\repos\VaccineApp\bin\Debug\netcoreapp3.1\VaccineApp.deps.json
+C:\Users\tendo\source\repos\VaccineApp\bin\Debug\netcoreapp3.1\VaccineApp.runtimeconfig.json
+C:\Users\tendo\source\repos\VaccineApp\bin\Debug\netcoreapp3.1\VaccineApp.runtimeconfig.dev.json
+C:\Users\tendo\source\repos\VaccineApp\bin\Debug\netcoreapp3.1\VaccineApp.dll
+C:\Users\tendo\source\repos\VaccineApp\bin\Debug\netcoreapp3.1\VaccineApp.pdb
+C:\Users\tendo\source\repos\VaccineApp\obj\Debug\netcoreapp3.1\VaccineApp.csprojAssemblyReference.cache
+C:\Users\tendo\source\repos\VaccineApp\obj\Debug\netcoreapp3.1\VaccineApp.AssemblyInfoInputs.cache
+C:\Users\tendo\source\repos\VaccineApp\obj\Debug\netcoreapp3.1\VaccineApp.AssemblyInfo.cs
+C:\Users\tendo\source\repos\VaccineApp\obj\Debug\netcoreapp3.1\VaccineApp.csproj.CoreCompileInputs.cache
+C:\Users\tendo\source\repos\VaccineApp\obj\Debug\netcoreapp3.1\VaccineApp.dll
+C:\Users\tendo\source\repos\VaccineApp\obj\Debug\netcoreapp3.1\VaccineApp.pdb
+C:\Users\tendo\source\repos\VaccineApp\obj\Debug\netcoreapp3.1\VaccineApp.genruntimeconfig.cache
